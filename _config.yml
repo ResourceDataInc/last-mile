@@ -1,0 +1,1 @@
+exclude: ["geojson", "node_modules", "script", "Gruntfile.js", "package.json"]
